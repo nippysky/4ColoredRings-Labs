@@ -3,7 +3,7 @@ import React from "react";
 export default function LabBirth() {
   return (
     <section
-      id="doings"
+      id="birth"
       className="bg-white dark:bg-black w-full px-7 my-10 py-[2rem] md:my-20  md:px-20 md:py-[4rem] overflow-hidden"
     >
       <div>

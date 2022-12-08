@@ -46,7 +46,7 @@ const teamMembers: object[] = [
     id: 6,
     image: Nippy,
     title: "Developer",
-    name: "Nippy The Creative",
+    name: "Nippy The Creator",
   },
 ];
 

@@ -141,7 +141,7 @@ function Form() {
         <div>
           <input
             onChange={handlePassengerIDChange}
-            value={name}
+            value={passengerID}
             required
             className="w-full h-14 p-5 rounded-lg bg-mainBG dark:bg-darkBG border-none focus:ring-1 focus:ring-black dark:focus:ring-1 dark:focus:ring-white"
             type="text"

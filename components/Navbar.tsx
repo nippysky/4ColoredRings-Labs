@@ -72,7 +72,7 @@ function Navbar() {
             <div>
               <span className="cursor-pointer md:hover:text-black md:hover:border-b-2 border-royal dark:border-gold dark:md:hover:text-white">
                 <Link
-                  to="team"
+                  to="birth"
                   spy={true}
                   smooth={true}
                   offset={50}
@@ -86,7 +86,7 @@ function Navbar() {
             <div>
               <span className="cursor-pointer md:hover:text-black md:hover:border-b-2 border-royal dark:border-gold dark:md:hover:text-white">
                 <Link
-                  to="contact"
+                  to="team"
                   spy={true}
                   smooth={true}
                   offset={50}

@@ -13,7 +13,10 @@ const Home: NextPage = () => {
     <section className="bg-mainBG dark:bg-darkBG w-full">
       <Head>
         <title>4ColoredRings Labs</title>
-        <meta name="description" content="Exploring Blockchain Technology" />
+        <meta
+          name="description"
+          content="Laboratory that transcends art capabilities and its ability to simplify communication through, Storytelling, Gamification, Ecosystem experience to engage and inspire people across the globe."
+        />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
