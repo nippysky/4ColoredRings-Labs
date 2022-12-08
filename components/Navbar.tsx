@@ -40,7 +40,7 @@ function Navbar() {
       >
         <div className="flex flex-1 w-full">
           {/* Logo */}
-          <div className="w-1/2 lg:w-1/3 items-center mt-2">
+          <div className="w-1/2 lg:w-[10%] items-center mt-2">
             <a href="/" className="cursor-pointer">
               <Image
                 src={"/HeadFoot/Passenger.GIF"}
@@ -53,7 +53,7 @@ function Navbar() {
           </div>
 
           {/* Section Links */}
-          <div className="hidden lg:flex lg:gap-10 lg:w-1/3 lg:text-black dark:lg:text-white lg:font-semibold lg:items-center lg:justify-center">
+          <div className="hidden lg:flex lg:gap-10 lg:w-[70%] lg:text-black dark:lg:text-white lg:font-semibold lg:items-center lg:justify-center">
             <div>
               <span className="cursor-pointer md:hover:text-black md:hover:border-b-2 border-royal dark:border-gold dark:md:hover:text-white">
                 <Link
@@ -112,7 +112,7 @@ function Navbar() {
           </div>
 
           {/* Apps and Theme Mode */}
-          <div className="w-1/2 lg:w-1/3 flex gap-[2.3rem] items-center justify-end text-black dark:text-white font-semibold">
+          <div className="w-1/2 lg:w-[20%] flex gap-[2.3rem] items-center justify-end text-black dark:text-white font-semibold">
             <div>
               <button
                 className="flex items-center"
