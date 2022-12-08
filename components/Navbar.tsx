@@ -4,7 +4,6 @@ import { useTheme } from "next-themes";
 import Image from "next/image";
 import { Link } from "react-scroll";
 
-import Passenger from "../public/HeadFoot/Passenger.gif";
 import { IoMdMoon } from "react-icons/io";
 import { ImSun } from "react-icons/im";
 import { HiCollection } from "react-icons/hi";
@@ -44,7 +43,7 @@ function Navbar() {
           <div className="w-1/2 lg:w-1/3 items-center mt-2">
             <a href="/" className="cursor-pointer">
               <Image
-                src={Passenger}
+                src={"/HeadFoot/Passenger.GIF"}
                 alt={"Passenger Logo"}
                 width={150}
                 height={50}
