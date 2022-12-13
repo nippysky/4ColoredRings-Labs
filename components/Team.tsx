@@ -43,7 +43,10 @@ function Team() {
               Founder / Idealist
             </h5>
             <p className="mt-1 text-[1.2rem] text-black dark:text-white">
-              Temujin khan As: Davidson Smart
+              Temujin khan
+            </p>
+            <p className="mt-1 text-[1.2rem] text-[#FFD700]">
+              As: Davidson Smart
             </p>
           </div>
         </div>
@@ -69,6 +72,7 @@ function Team() {
               image={teamMember.image}
               title={teamMember.title}
               name={teamMember.name}
+              alias={teamMember.alias}
             />
           );
         })}

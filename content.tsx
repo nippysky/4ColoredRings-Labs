@@ -11,14 +11,16 @@ const teamMembers: object[] = [
     id: 1,
     image: Charles,
     title: "Co-Founder / Digital marketer",
-    name: "Charles Furnas As : Ipeh amaga",
+    name: "Charles Furnas",
+    alias: "As : Ipeh amaga",
   },
 
   {
     id: 2,
     image: Hart,
     title: "Co-Founder / Developer",
-    name: "Hartdegen As : james undefined",
+    name: "Hartdegen",
+    alias: "As : james undefined",
   },
 
   {
@@ -26,6 +28,7 @@ const teamMembers: object[] = [
     image: Popoye,
     title: "Developer / IT expert",
     name: "Popoye",
+    alias: "",
   },
 
   {
@@ -33,6 +36,7 @@ const teamMembers: object[] = [
     image: Syll,
     title: "Graphic Designer / Animations ",
     name: "Syll",
+    alias: "",
   },
 
   {
@@ -40,6 +44,7 @@ const teamMembers: object[] = [
     image: Rose,
     title: "Fashion Designer / Digital Marketing",
     name: "Rose",
+    alias: "",
   },
 
   {
@@ -47,6 +52,7 @@ const teamMembers: object[] = [
     image: Nippy,
     title: "Developer",
     name: "Nippy The Creator",
+    alias: "",
   },
 ];
 
