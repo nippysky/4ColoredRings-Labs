@@ -11,35 +11,35 @@ const teamMembers: object[] = [
     id: 1,
     image: Charles,
     title: "Co-Founder / Digital marketer",
-    name: "Charles Furnas",
+    name: "Charles Furnas As : Ipeh amaga",
   },
 
   {
     id: 2,
+    image: Hart,
+    title: "Co-Founder / Developer",
+    name: "Hartdegen As : james undefined",
+  },
+
+  {
+    id: 3,
     image: Popoye,
     title: "Developer / IT expert",
     name: "Popoye",
   },
 
   {
-    id: 3,
+    id: 4,
     image: Syll,
     title: "Graphic Designer / Animations ",
     name: "Syll",
   },
 
   {
-    id: 4,
+    id: 5,
     image: Rose,
     title: "Fashion Designer / Digital Marketing",
     name: "Rose",
-  },
-
-  {
-    id: 5,
-    image: Hart,
-    title: "Co-Founder / Developer",
-    name: "Hartdegen",
   },
 
   {

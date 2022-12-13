@@ -39,7 +39,7 @@ function Hero() {
         >
           <Link href="/">
             <span className="cursor-pointer bg-black py-3.5 px-[3rem] dark:bg-white text-white dark:text-black font-medium rounded-lg relative top-5 text-center">
-              Company Diary
+              Collection
             </span>
           </Link>
         </motion.div>

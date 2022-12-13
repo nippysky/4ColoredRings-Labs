@@ -43,7 +43,11 @@ function Navbar() {
           <div className="w-1/2 lg:w-[10%] items-center mt-2">
             <a href="/" className="cursor-pointer">
               <Image
-                src={"/HeadFoot/Passenger.GIF"}
+                src={
+                  theme === "dark"
+                    ? "/HeadFoot/4CRDark.GIF"
+                    : "/HeadFoot/4CRLight.GIF"
+                }
                 alt={"Passenger Logo"}
                 width={150}
                 height={50}

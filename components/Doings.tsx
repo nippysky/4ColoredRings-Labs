@@ -92,7 +92,7 @@ function Doings() {
               image={Ring3}
               heading={"Storytelling"}
               text={
-                "Everything has a begins and an origin and a reason to talk about it."
+                "Everything has a beginning, an origin, and a reason to talk about it."
               }
             />
           </motion.div>

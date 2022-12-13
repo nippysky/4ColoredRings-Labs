@@ -43,7 +43,7 @@ function Team() {
               Founder / Idealist
             </h5>
             <p className="mt-1 text-[1.2rem] text-black dark:text-white">
-              Temujin khan
+              Temujin khan As: Davidson Smart
             </p>
           </div>
         </div>
