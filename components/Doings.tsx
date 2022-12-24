@@ -77,8 +77,8 @@ function Doings() {
           >
             <DoCard
               image={Ring2}
-              heading={"Creations"}
-              text={"Ecosystem, Gamification world, and Merchandise."}
+              heading={"Collectibles"}
+              text={"The Lab Merchandise: Clothing, Currency, Arts, etc"}
             />
           </motion.div>
 
@@ -105,8 +105,10 @@ function Doings() {
           >
             <DoCard
               image={Ring4}
-              heading={"Gamifications"}
-              text={"We move closer to a world where every effort is rewarded."}
+              heading={"World Building"}
+              text={
+                "We move closer to a world where every effort is rewarded and fun. Mainly focused around gamifications"
+              }
             />
           </motion.div>
         </div>
