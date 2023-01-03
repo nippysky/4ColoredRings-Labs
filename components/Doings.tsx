@@ -3,12 +3,14 @@ import Button from "./Button";
 import DoCard from "./DoCard";
 import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
+import Image from "next/image";
 
 // Import all Icons For The Doings Section
 import Ring1 from "../public/Doings/Ring1.svg";
 import Ring2 from "../public/Doings/Ring2.svg";
 import Ring3 from "../public/Doings/Ring3.svg";
 import Ring4 from "../public/Doings/Ring4.svg";
+import autobuss from "../public/Doings/autobuss.gif";
 
 function Doings() {
   const [mounted, setIsMounted] = useState(false);
@@ -46,6 +48,17 @@ function Doings() {
               <HiArrowNarrowRight size={25} />
             </span>
           </Button>
+
+          <div className="mt-10">
+            <Image
+              src={autobuss}
+              alt={"passenger gif"}
+              width={600}
+              height={1200}
+              layout="responsive"
+              priority
+            />
+          </div>
         </motion.div>
 
         {/* Detailed Tile List */}
