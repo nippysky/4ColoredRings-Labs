@@ -13,7 +13,7 @@ function ReachUs() {
           Join US
         </h3>
         <p className="text-black dark:text-white text-[1.1rem] md:text-[1.2rem] pt-8">
-          Passengers are welcome on board the lab. We rise by lifting others.
+          The vision is clear, do you have what it takes?
         </p>
       </div>
 

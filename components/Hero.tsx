@@ -26,7 +26,7 @@ function Hero() {
           transition={{ ease: "easeOut", duration: 1.5 }}
         >
           Laboratory that transcends art capabilities and its ability to
-          simplify communication through, Storytelling, Gamification, Ecosystem
+          simplify communication through, Storytelling, Gamification, Ecosystem,
           experience to engage and inspire people across the globe.
         </motion.p>
 
@@ -38,7 +38,7 @@ function Hero() {
           transition={{ ease: "easeOut", duration: 1 }}
         >
           <Link href="/">
-            <span className="cursor-pointer bg-black py-3.5 px-[3rem] dark:bg-white text-white dark:text-black font-medium rounded-lg relative top-5 text-center">
+            <span className="cursor-pointer bg-black py-3.5 px-[3rem] dark:bg-[#FFD700] text-[#FFD700] dark:text-black font-medium rounded-lg relative top-5 text-center">
               Collection
             </span>
           </Link>

@@ -15,7 +15,11 @@ export default function LabBirth() {
           The vision he saw was not of his making but the creation will be, It
           began with the butterfly effect. An accident he ( founding father)
           suffered (open fracture and dislocation of the right ankle ) awoken
-          his artistic side ,once his movement stopped.
+          his artistic side ,once his movement stopped. Founder / Idealist
+          Temujin khan As: Davidson Smart On August 30th 2021, while on his
+          hospital bed although his movements was trapped his mind not. His mind
+          wonder to the vision “4coloured rings labs”. A lab born to transcend
+          the power of art itself.
         </p>
       </div>
     </section>

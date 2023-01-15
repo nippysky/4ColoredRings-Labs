@@ -32,12 +32,21 @@ function Doings() {
           viewport={{ once: false, amount: 0.2 }}
           transition={{ ease: "easeOut", duration: 1 }}
         >
-          <h3 className="font-bold text-black dark:text-white text-[1.75rem] md:text-3xl leading-[1.5]">
-            Journey To The Future
+          <h3 className="font-bold text-black dark:text-white text-[1.75rem] md:text-3xl leading-[1.5] capitalize">
+            We Want To Build a world
           </h3>
-          <p className="text-black dark:text-white text-[1.1rem] md:text-[1.2rem] pt-8 mb-10">
-            Hop in to the ridden ecosystem of passengers and experience the
-            journey to our digital world from its adam
+          <p className="text-black dark:text-white text-[1.1rem] md:text-[1.2rem] pt-8 mb-5 text-justify">
+            A world,ridden by its people. A perfect world is something nearly
+            impossible to achieve and a far way out from where humans are today.
+            Our idea for a perfect world shall be called “TranscendedEarth” .
+            Passengers utopia, taking place very far into the future.
+          </p>
+
+          <p className="text-black dark:text-white text-[1.1rem] md:text-[1.2rem] pt-8 mb-10 text-justify">
+            First things first, there would be some rules to establish and
+            passengers for the journey. Hop in to the ridden ecosystem of
+            passengers and experience the journey to our digital world from its
+            adam
           </p>
 
           <Button link="">
@@ -75,9 +84,9 @@ function Doings() {
           >
             <DoCard
               image={Ring1}
-              heading={"Community"}
+              heading={"Lifestyle"}
               text={
-                "The power of the passengers club lies with its members trust and support."
+                "Passengers in the ridden ecosystem experience  some basic elements of what our world is like today. However the goal isn’t to leave others behind while some push forward, but instead move everyone forward as a whole."
               }
             />
           </motion.div>
@@ -90,8 +99,10 @@ function Doings() {
           >
             <DoCard
               image={Ring2}
-              heading={"Collectibles"}
-              text={"The Lab Merchandise: Clothing, Currency, Arts, etc"}
+              heading={"Economy"}
+              text={
+                "Currency is always a major factor to consider in a society. Pass Earth wouldn’t be any different, There will be only one acceptable currency in the ridden ecosystem called “ senger -Coin “but however, the will be what is called “The Ring Payment as well”."
+              }
             />
           </motion.div>
 
@@ -118,9 +129,9 @@ function Doings() {
           >
             <DoCard
               image={Ring4}
-              heading={"World Building"}
+              heading={"Community"}
               text={
-                "We move closer to a world where every effort is rewarded and fun. Mainly focused around gamifications"
+                "In the ridden - ecosystem , Passengers have complete control and governance to what they wish to earn through gamification. Effort is rewarded accordingly."
               }
             />
           </motion.div>

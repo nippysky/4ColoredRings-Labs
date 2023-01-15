@@ -54,10 +54,16 @@ function Team() {
         <div className="w-full lg:w-1/2">
           <div className="mt-10">
             <p className="text-[1.1rem] md:text-[1.2rem] text-black dark:text-white mb-7">
-              On August 30th 2021, while on his hospital bed although his
-              movements was trapped his mind not. His mind wonder to the vision
-              “4coloured rings labs”. A lab born to transcend the power of art
-              itself.
+              A perfect world is an illusion, only those who have accepted
+              limitations , simply comes to this conclusion. However, those that
+              seek change or cry out for something different can never accept
+              this reality!. for many things we see this day, men thought them
+              to be impossible and just mere imaginations.
+            </p>
+
+            <p className="text-[1.1rem] md:text-[1.2rem] text-black dark:text-white italic">
+              So I call out to You, You with the same vision as me. Let us build
+              this world, a “Transcended -Earth !“ .
             </p>
           </div>
         </div>
