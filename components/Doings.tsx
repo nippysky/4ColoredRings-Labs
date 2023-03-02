@@ -13,7 +13,6 @@ import Ring4 from "../public/Doings/Ring4.svg";
 import autobuss from "../public/Doings/autobuss.gif";
 
 function Doings() {
-  // State hook to handle ismounted
   const [mounted, setIsMounted] = useState(false);
 
   useEffect(() => setIsMounted(true), []);
